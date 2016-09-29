@@ -5,6 +5,7 @@
   8 LEDS
   HAVE TO BRING IN RED LEDS DONE~
   Florea Bogdan
+  Nothing new to add for now
   Versiunea 1.0
 
   Tired to work anymore 2:55 AM 17.08.2016
